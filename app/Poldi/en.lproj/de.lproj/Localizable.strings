@@ -1,0 +1,68 @@
+/*
+ Localizable.strings
+ Sunny Boy
+ 
+ Created by admin on 03.12.12.
+ Copyright (c) 2012 muugs. All rights reserved.
+ */
+
+// GERMAN
+"Paris - Amsterdam" = "Paris - Amsterdam";
+"Athour" = "Um 8:00 Uhr";
+"at" = "Um";
+
+
+"Train" = "Zug";
+"Car"="Auto";
+"Bus"="Bus";
+"Ricksaw"="Rickscha";
+
+"Vehicle" = "";
+"Date" = "Datum";
+"Time" = "Zeit";
+"Start Point" = "Start Punkt";
+"End Point" = "End Punkt";
+"From" = "Von";
+"To" = "Nach";
+"Via" = "Via";
+"infoNoGuarantee" = "Alle Angaben ohne Gewähr";
+"Travel Planner" = "Sunny Boy";
+"For example: Berlin" = "Zum Beispiel: Berlin";
+"For example: Hamburg" = "Zum Beispiel: Hamburg";
+"Time Planner" = "Reiseplanung";
+"It seems that we can not find your location, please check your internet connection and try again." = "Deine Ortsangabe ist unbekannt. Bitte überprüfe deine Internetverbindung und versuche es noch einmal.";
+// PerformanceViewController
+"Left" = "Links";
+"Please Sit Left" = "Bitte links sitzen";
+"Left Side" = "Linke Seite";
+"Right Side" = "Rechte Seite";
+"Please Sit Right" = "Bitte rechts sitzen";
+"Right" = "Rechts";
+"Keep the sun glasses in the bag" = "Vergiss die Sonnenbrille!";
+"not shining" = "  scheint nicht";
+"Driving for more than a day is not supported, please reduce the distance. Thank you!" = "Fahrten länger als ein Tag werden nicht unterstützt, bitte Entfernung anpassen. Danke!";
+"afert sunshine left" = "Bei Tagesanbruch links sitzen";
+//"afert sunshine left" = "Nach dem Sonnenaufgang, links sitzen";
+"will be right." = "wird rechts sein";
+"after sunshile right" = "Bei Tagesanbruch rechts sitzen";
+"will be left." = "wird links sein";
+"Train mode" = "Zug-Modus";
+"Car mode" = "Auto-Modus";
+"Bus mode" = "Bus-Modus";
+"Ricksaw mode" = "Rikscha-Modus";
+
+"seat train locator" = "Screen berühren um besten Platz im Zug zu finden:";
+"seat car locator" = "Screen berühren um besten Platz im Auto zu finden:";
+"seat bus locator" = "Screen berühren um besten Platz im Bus zu finden:";
+"seat riscksaw locator" = "Screen berühren um besten Platz im Ricksaw zu finden:";
+
+"train locator" = "seat_locator_train-de.png";
+"car locator" = "seat_locator_car-de.png";
+"bus locator" = "seat_locator_bus-de.png";
+"ricksaw locator" = "seat_locator_ricksaw-de.png";
+
+"Welcome" = "Willkommen";
+"oneTouch one time" = "1x Finde besten Platz";
+"oneTouch two times" = "2x Fahrzeug wechseln";
+
+"best seats" = "Beste Sitzplätze";

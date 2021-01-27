@@ -1,0 +1,67 @@
+/*
+ Localizable.strings
+ Sunny Boy
+ 
+ Created by admin on 03.12.12.
+ Copyright (c) 2012 muugs. All rights reserved.
+ */
+
+"Paris - Amsterdam" = "Paris - Amsterdam";
+"Athour" = "A las 8:00 am";
+"at" = "A las";
+
+"Train" = "Tren";
+"Car"="Coche";
+"Bus"="Autobus";
+"Ricksaw"="Bicitaxi";
+
+"Vehicle" = "";
+"Date" = "Fecha";
+"Time" = "Hora";
+"Start Point" = "Start Point";
+"End Point" = "End Point";
+"From" = "Inicio";
+"To" = "Destino";
+"Via" = "Via";
+
+"infoNoGuarantee" = "Todos los datos sin garantía";
+"Travel Planner" = "Sunny Boy";
+
+"For example: Berlin" = "Por ejemplo: Berlin";
+"For example: Hamburg" = "Por ejemplo: Hamburg";
+"Time Planner" = "Planeador del tiempo";
+"It seems that we can not find your location, please check your internet connection and try again." = "La ubicación no ha sido encontrada, favor de checar la conexión a Internet e intentar de nuevo.";
+// PerformanceViewController
+"Left" = "Izquierda";
+"Please Sit Left" = "Asiento a la izquierda";
+"Left Side" = "Lado izquierdo";
+"Right Side" = "Lado derecho";
+"Please Sit Right" = "Asiento a la derecha";
+"Right" = "Derecha";
+"Keep the sun glasses in the bag" = "¡Guarda tus lentes de sol!";
+"not shining" = "sin brillar";
+"Driving for more than a day is not supported, please reduce the distance. Thank you!" = "Viajes de más de un día no están disponibles, favor de reducir la distancia. ¡Gracias!";
+"afert sunshine left" = "Al amanecer sientate la izquierda";
+"will be right." = " a la derecha";
+"after sunshile right" = "Al amanecer sientate la derecha";
+"will be left." = " a la izquierda";
+"Train mode" = "Modo tren";
+"Car mode" = "Modo coche";
+"Bus mode" = "Modo autobus";
+"Ricksaw mode" = "Modo bicitaxi";
+
+"seat train locator" = "Toque la pantalla para encontrar el mejor asiento en el tren:";
+"seat car locator" = "Toque la pantalla para encontrar el mejor asiento en el auto:";
+"seat bus locator" = "Toque la pantalla para encontrar el mejor asiento en el autobus:";
+"seat riscksaw locator" = "Toque la pantalla para encontrar el mejor asiento en el bicitaxi:";
+
+"train locator" = "seat_locator_train-es.png";
+"car locator" = "seat_locator_car-es.png";
+"bus locator" = "seat_locator_bus-es.png";
+"ricksaw locator" = "seat_locator_ricksaw-es.png";
+
+"Welcome" = "Bienvenido";
+"oneTouch one time" = "1x busca el mejor asiento";
+"oneTouch two times" = "2x cambia el vehículo";
+
+"best seats" = "Los mejores asiento";

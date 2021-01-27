@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Sunny Boy
+
+  Created by admin on 05.12.12.
+  Copyright (c) 2012 muugs. All rights reserved.
+*/
+/* Localized versions of Info.plist keys */
+
+"Paris - Amsterdam" = "Paris - Amsterdam";
+"Athour" = "At 8:00 am";
+"at" = "At";
+
+"Train" = "Train";
+"Car"="Car";
+"Bus"="Bus";
+"Ricksaw"="Ricksaw";
+
+"Vehicle" = "";
+"Date" = "Date";
+"Time" = "Time";
+"Start Point" = "Start Point";
+"End Point" = "End Point";
+"From" = "From";
+"To" = "To";
+"Via" = "Via";
+"infoNoGuarantee" = "All information without guarantee";
+"Travel Planner" = "Sunny Boy";
+"For example: Berlin" = "For example: Berlin";
+"For example: Hamburg" = "For example: Hamburg";
+"Time Planner" = "Time Planner";
+"It seems that we can not find your location, please check your internet connection and try again." = "It seems that we can not find your location, please check your internet connection, your private settings and try again.";
+// PerformanceViewController
+"Left" = "Left";
+"Please Sit Left" = "Please Sit Left";
+"Left Side" = "Left Side";
+"Right Side" = "Right Side";
+"Please Sit Right" = "Please Sit Right";
+"Right" = "Right";
+"Keep the sun glasses in the bag" = "Keep the sun glasses in the bag";
+"not shining" = "not shining";
+"Driving for more than a day is not supported, please reduce the distance. Thank you!" = "Driving for more than a day is not supported, please reduce the distance. Thank you!";
+"afert sunshine left" = "Hey! After the sunrise, sit left";
+"will be right." = "will be right";
+"after sunshile right" = "Hey! After the sunrise, sit right";
+"will be left." = "will be left";
+"Train mode" = "Train mode";
+"Car mode" = "Car mode";
+"Bus mode" = "Bus mode";
+"Ricksaw mode" = "Ricksaw mode";
+
+"seat train locator" = "Touch screen for best train seat:";
+//"seat car locator" = "Car seat locator example:";
+"seat car locator" = "Touch screen for best car seat:";
+"seat bus locator" = "Touch screen for best bus seat:";
+"seat riscksaw locator" = "Touch screen for best riscksaw seat:";
+
+"train locator" = "seat_locator_train.png";
+"car locator" = "seat_locator_car.png";
+"bus locator" = "seat_locator_bus.png";
+"ricksaw locator" = "seat_locator_ricksaw.png";
+
+"Welcome" = "Welcome";
+"oneTouch one time" = "1x Find the best seat";
+"oneTouch two times" = "2x Change vehicle";
+
+"best seats" = "Best Seats";
+
