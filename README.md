@@ -1,7 +1,7 @@
 # Sunny Boy - Discontinued
 
 
-![Screenshots](./assets/sunnyboy_all.jpeg)
+![Screenshots](./assets/sunnyboy_all_light.jpeg)
 
 
 ## About
